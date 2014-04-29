@@ -1,0 +1,30 @@
+{
+  "name": "is-m4a",
+  "description": "Check if a Buffer/Uint8Array a m4a file.",
+  "license": "MIT",
+  "main": "browser.js",
+  "authors": [
+    {
+      "name": "Hemanth.HM",
+      "email": "hemath.hm@gmail.com",
+      "url": "http://h3manth.com"
+    }
+  ],
+   "keywords": [
+    "m4a",
+    "type",
+    "detect",
+    "check",
+    "is",
+    "binary",
+    "buffer",
+    "uint8array"
+  ],
+  "ignore": [
+    ".*",
+    "test.js",
+    "component.json",
+    "package.json",
+    "fixture*"
+  ]
+}

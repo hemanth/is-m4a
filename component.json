@@ -1,0 +1,21 @@
+{
+  "name": "is-m4a",
+  "version": "0.1.0",
+  "description": "Check if a Buffer/Uint8Array is a m4a file",
+  "license": "MIT",
+  "repository": "hemanth/is-m4a",
+  "scripts": [
+    "index.js"
+  ],
+   "keywords": [
+    "m4a",
+    "audio",
+    "type",
+    "detect",
+    "check",
+    "is",
+    "binary",
+    "buffer",
+    "uint8array"
+  ],
+}
