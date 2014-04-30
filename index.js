@@ -16,5 +16,5 @@ module.exports = function (buf) {
       buf[1] === 52 &&
       buf[2] === 65 &&
       buf[3] === 32
-    )
+    );
 };
