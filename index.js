@@ -4,11 +4,7 @@ module.exports = function (buf) {
 		return false;
 	}
 
-	return (buf[0] === 0 &&
-		buf[1] === 0 &&
-		buf[2] === 0 &&
-		buf[3] === 32 &&
-		buf[4] === 102 &&
+	return (buf[4] === 102 &&
 		buf[5] === 116 &&
 		buf[6] === 121 &&
 		buf[7] === 112) || (
